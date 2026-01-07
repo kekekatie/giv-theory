@@ -35,7 +35,6 @@ If you want a more "website-like" experience:
 GIV_Website/
 ├── index.html              # Home page - start here!
 ├── about.html              # About the researcher and method
-├── timeline.html           # The journey from binary flicks to E8
 │
 ├── framework/              # Core theoretical framework
 │   └── index.html
