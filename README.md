@@ -4,9 +4,6 @@
 
 This website houses the research and papers of K. T. Niedzwiecki on the GIV (Geometric Impedance of the Vacuum) theory.
 
-## How to View the Website
-
-### Method 1: Open Directly in Browser (Easiest!)
 
 1. Navigate to the `GIV_Website` folder
 2. Double-click `index.html`
@@ -53,10 +50,6 @@ GIV_Website/
     └── style.css
 ```
 
-## Next Steps
-
-### To Add Your PDFs:
-
 1. Copy your PDF files from `GIV_Theory` folder to `GIV_Website/papers/`
 2. The links in the Papers page already point to them!
 
@@ -93,7 +86,7 @@ GIV_Website/
 ---
 
 **Created:** January 2026
-**Theory Development:** K. T. Niedzwiecki with AI collaborators (Gemini, GPT-5, Kimi, Claude)
+**Theory Development:** K. T. Niedzwiecki with AI collaborators (Gemini, GPT-5, Claude)
 **Website Built:** Claude Code CLI
 
 *"Life crystallizes along the grain of the vacuum. So does knowledge."*
